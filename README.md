@@ -13,3 +13,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HeyKashit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=HeyKashit&theme=react" />
 <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyKashit&layout=compact&theme=react" />
+
+<div align="center">
+ <h2>📈 GitHub Activity:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=HeyKashit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+  <p align="center">
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=HeyKashit&theme=react" />
+  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyKashit&layout=compact&theme=react" />
+</p>
+</div>
