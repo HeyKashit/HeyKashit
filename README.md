@@ -6,7 +6,7 @@
 -  💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 - 💬 Ask me about Tech related stuff.
 - 📫 How to reach me: [Instagram - @__kashit_d](https://www.instagram.com/__kashit_d/)
-- - 😅 <samp>Ask me about anything and everything!</samp>
+-  😅 <samp>Ask me about anything and everything!</samp>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nothing 
 
