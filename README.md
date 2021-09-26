@@ -10,6 +10,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nothing 
 
+ <a href="https://wa.me/8839714038">
+  <img alt="swati's Coursera" width="95px" src="https://img.shields.io/badge/Whatsapp-rgb(77,194,71)?style=for-the-badge&logo=Whatsapp&logoColor=white" />
+</a>
+
 
 <div align="center">
  <h2>📈 GitHub Activity:</h2>
