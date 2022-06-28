@@ -2,7 +2,7 @@
 ### I am Kashit 👋
 
 - 🔭 I’m currently Studying at JECRC University
-- 🌱 I’m currently learning Machine Learning, Computer Visions and DataStructure and algorithms.
+- 🌱 I’m currently learning Machine Learning,DataStructure and algorithms,Python,Ui designing and FrontEnd Dev.
 - 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 - 😅 <samp>Ask me about anything and everything!</samp>
 - 😄 Pronouns: He/His
