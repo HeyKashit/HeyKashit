@@ -14,9 +14,3 @@
 
 
 
-
-
-<div align="center"><h2><b><samp>Skills | Languages | Tools</samp></b></h2></div>
-<div align="center">
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white )
-</div>
