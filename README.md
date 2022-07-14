@@ -15,3 +15,6 @@
 
 
 
+
+<div align="center"><h2><b><samp>Skills | Languages | Tools</samp></b></h2></div>
+<div align="center">
