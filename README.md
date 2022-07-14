@@ -6,7 +6,7 @@
 - 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 - 😅 <samp>Ask me about anything and everything!</samp>
 - 😄 Pronouns: He/His
-- 💬 phone no = 8839714038
+- 🔗 Linkedin : https://www.linkedin.com/in/kashitduhan/
 - 💼 Email id = kashitduhan2020@gmail.com
 
 
